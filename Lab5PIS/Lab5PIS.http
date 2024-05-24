@@ -1,0 +1,6 @@
+@Lab5PIS_HostAddress = http://localhost:5234
+
+GET {{Lab5PIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
